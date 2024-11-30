@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge SHA1 online",
+  "Type": "Screen",
+  "Id": "h426FjccaEe89c81gmjPCQ",
+  "Reference": "dssMWEryfUSXbfpC3ORm_Q/h426FjccaEe89c81gmjPCQ",
+  "ParentRef": "dssMWEryfUSXbfpC3ORm_Q/AuYJ0J3jgUOgNOrWbWjgYg",
+  "Created": "2024-11-27T08:10:35.6438448Z",
+  "Updated": "2024-11-27T08:10:35.6438448Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
